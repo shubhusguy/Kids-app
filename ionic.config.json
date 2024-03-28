@@ -1,0 +1,7 @@
+{
+  "name": "kidsApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
