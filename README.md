@@ -20,7 +20,7 @@ This Kids Learning App is a fun and interactive platform designed to help childr
 
 1. **Clone the repository**:
     ```bash
-    git clone [https://github.com/your-username/kids-learning-app.git](https://github.com/shubhusguy/Kids-app.git)
+    git clone https://github.com/shubhusguy/Kids-app.git
     ```
 2. **Navigate to the project directory**:
     ```bash
